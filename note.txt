@@ -1,0 +1,17 @@
+In the downloaded spreadsheet (from url2), the three radon levels are described as follows:
+Radon Zone Descriptions
+Zone 1: Counties with predicted average indoor radon screening levels greater than 4 pCi/L
+Zone 2: Counties with predicted average indoor radon screening levels from 2 to 4 pCi/L
+Zone 3: Counties with predicted average indoor radon screening levels less than 2 pCi/L
+
+My Radon Index is defined by swaping 1 and 3 to make it more intuitive:
+The higher/lower the Randon index, the higher/lower the radon concentration, so:
+Radon Index 1: Counties with predicted average indoor radon screening levels less than 2 pCi/L
+Radon Index 2: Counties with predicted average indoor radon screening levels from 2 to 4 pCi/L
+Radon Index 3: Counties with predicted average indoor radon screening levels greater than 4 pCi/L
+
+On url3, the name of the second column
+"Percentage Current Smokers" has been changed to "Percentage of Smokers".
+
+On url4, the name of the second column
+"Age-Adjusted Incidence Rate cases per 100,000" has been changed to "Cancer Incidence Rate (cases/100,000)".
