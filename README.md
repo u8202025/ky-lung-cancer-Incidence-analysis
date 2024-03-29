@@ -93,5 +93,5 @@ A Python virtual environment is a self-contained directory that contains a Pytho
     ```
 
 ## Conclusion
-By incorporating the lung cancer incidence rates, three radon levels alongside with tobacco usage rates in most populated counties, we merged the three data sets in a table and displayed it as a 3D plot. This project plan tried to offer a holistic approach to examine potential environmental and behavioral factors that can influence lung cancer incidence in Kentucky.
+By incorporating the lung cancer incidence rates, three radon levels alongside with tobacco usage rates in most populated counties, we merged the three data sets in a table and displayed it as a 3D plot. This project plan tried to offer a holistic approach to examine potential environmental and behavioral factors that can influence lung cancer incidence in Kentucky. From the last two table (after running the code on Final_project.ipynb), one can clearly see that (i) the higher the Percentage of Smokers, the higher the Cancer Incidence Rate, and (ii) the counties with lowest radon concentration (Radon Index = 1) have the lowest average Cancer Incidence Rate. The study shows that lung (& bronchus) cancer incidence correlates closely with smoking and radon concentration.
 
